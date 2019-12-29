@@ -8,6 +8,10 @@ Lenguaje usado: Java (Para predecir) y Python (Para entrenar la red neuronal).
 ## Créditos
 <b>*Desarrollador: <br /></b>
 Alberto Villarreal Canales (Betusto)<br />
+<ul>
+<li>Correo: alberto.villarreal.canales@gmail.com</li>
+<li>Celular: 8117205175</li>
+</ul>
 
 ## Link para Descargar el programa
 https://mega.nz/#!9kJ1jAJL!De3XB7aykyI3DwvV8E_RJWn_l4UJygMmDZZTvpFVE0o
